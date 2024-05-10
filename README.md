@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **hariprasad2k06@gmail.com**
 
-- 📄 Know about my experiences [test](test)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
